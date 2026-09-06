@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Singularity Robotics
+# Singularity Robotics
 ### FIRST Robotics Competition · Team 10032 · Frisco, TX
 
 [![Website](https://img.shields.io/badge/website-singularity--frc.com-black?style=flat-square)](https://singularity-frc.com)
@@ -8,14 +8,12 @@
 
 </div>
 
-We're a student-run FIRST Robotics Competition team. We design, build, and code a 120lb competition robot from scratch every season — this org is where that code lives.
+We're a student-run FIRST Robotics Competition team based in Frisco, TX. Every season we design, build, and code a 120lb competition robot from scratch, and this org is where that code lives.
 
-**Rookie season, we qualified for the FIRST Championship in Houston.** Now heading into our third season.
+Rookie season, we qualified for the FIRST Championship in Houston. Now heading into our third season.
 
 ### What's in here
-- 🤖 **Competition robot code** — Java, WPILib, command-based
-- 🌐 **Team site** — TypeScript ([SINGFRC](https://github.com/Singularity10032/SINGFRC))
-- 📐 CAD, controls, and strategy live alongside the code, season by season
+Robot code is Java on WPILib, command-based. The team site ([SINGFRC](https://github.com/Singularity10032/SINGFRC)) is TypeScript. CAD, controls, and strategy notes live alongside the code, season by season.
 
 ### Repos
 
@@ -35,6 +33,6 @@ We're a student-run FIRST Robotics Competition team. We design, build, and code 
 
 <div align="center">
 
-📍 Frisco, TX &nbsp;·&nbsp; 🌐 singularity-frc.com &nbsp;·&nbsp; 🏆 FRC #10032
+Frisco, TX &nbsp;·&nbsp; singularity-frc.com &nbsp;·&nbsp; FRC #10032
 
 </div>
