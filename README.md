@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Singularity10032/Singularity10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Singularity Robotics
+### FIRST Robotics Competition · Team 10032 · Frisco, TX
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/website-singularity--frc.com-black?style=flat-square)](https://singularity-frc.com)
+[![FRC Team](https://img.shields.io/badge/FRC-%2310032-informational?style=flat-square)](https://frc-events.firstinspires.org/team/10032)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+We're a student-run FIRST Robotics Competition team. We design, build, and code a 120lb competition robot from scratch every season — this org is where that code lives.
+
+**Rookie season, we qualified for the FIRST Championship in Houston.** Now heading into our third season.
+
+### What's in here
+- 🤖 **Competition robot code** — Java, WPILib, command-based
+- 🌐 **Team site** — TypeScript ([SINGFRC](https://github.com/Singularity10032/SINGFRC))
+- 📐 CAD, controls, and strategy live alongside the code, season by season
+
+### Repos
+
+| Repo | Season / purpose |
+|---|---|
+| [Singularity-Rebuilt-2026](https://github.com/Singularity10032/Singularity-Rebuilt-2026) | 2026 season robot code |
+| [Code-2026](https://github.com/Singularity10032/Code-2026) | 2026 season robot code |
+| [State-Code-2026-Real-New-NOT-CLICKBAIT-](https://github.com/Singularity10032/State-Code-2026-Real-New-NOT-CLICKBAIT-) | 2026 state-event build |
+| [RoboCode](https://github.com/Singularity10032/RoboCode) | Robot code |
+| [SINGFRC](https://github.com/Singularity10032/SINGFRC) | Team website |
+
+### Built with
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WPILib](https://img.shields.io/badge/WPILib-FRC-orange?style=flat-square)
+
+<div align="center">
+
+📍 Frisco, TX &nbsp;·&nbsp; 🌐 singularity-frc.com &nbsp;·&nbsp; 🏆 FRC #10032
+
+</div>
